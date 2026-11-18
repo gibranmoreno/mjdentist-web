@@ -1,19 +1,12 @@
-# MJDENTIST 5.0 | Sitio público informativo
+# MJDENTIST 5.1 | Edición pública
 
-Esta edición está preparada para GitHub Pages. Conserva inicio, servicios, presentación de la doctora y ubicación. No incluye registro, solicitudes de citas, administración, contraseñas ni almacenamiento local.
+Sitio informativo estático listo para GitHub Pages. Incluye ilustraciones de tratamientos, fotografías autorizadas, correcciones móviles y favicon.
 
-## Publicar en GitHub Pages
-1. Crea un repositorio nuevo en GitHub (por ejemplo `mjdentist-web`).
-2. Sube **el contenido de esta carpeta** a la raíz del repositorio: `index.html`, `css/`, `js/`, `img/`, `.nojekyll` y este README. No subas el ZIP entero como único archivo.
-3. En el repositorio entra a **Settings → Pages**.
-4. En **Build and deployment**, selecciona **Deploy from a branch**, rama `main`, carpeta `/(root)` y guarda.
-5. Cuando se publique, abre la URL que GitHub muestre en Pages (normalmente `https://TU-USUARIO.github.io/mjdentist-web/`).
+## Publicación
+Sube **el contenido de esta carpeta** a la raíz de `gibranmoreno/mjdentist-web` en la rama `main`. GitHub Pages debe apuntar a `main / (root)`.
 
-## Antes de publicar
-- Confirmar con la doctora la autorización para publicar su nombre y su retrato (el retrato fue generado/editado para el proyecto).
-- Confirmar que el enlace de Google Maps corresponda al consultorio.
-- Confirmar que el catálogo de servicios refleje los servicios reales y disponibles.
-- No subir la versión 4.5, ni archivos de contraseñas, registros, expedientes o fotografías de pacientes sin autorización.
-- Esta edición **no recibe citas**. Para habilitar citas reales hará falta un backend seguro y un aviso de privacidad apropiado.
+## Seguridad
+Esta edición no incluye cuentas, citas, formularios, contraseñas ni panel administrativo. No utilices el sitio para recopilar datos personales.
 
-La edición 4.5 permanece aparte para pruebas locales; no debe publicarse.
+## Fotografías
+Antes de publicar, confirma que las autorizaciones cubren el uso público en internet de cada imagen.
